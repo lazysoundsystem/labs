@@ -371,7 +371,13 @@ smaller subset above will be used. */
   grid-template-columns: repeat(6, 1fr);
   margin: auto;
   max-width: 1000px;
-  padding: 100px 0 280px;
+  padding: 100px 0;
+}
+
+.app-detail-landing .hero .read-on {
+  grid-column: 4 / span 2;
+  margin: auto;
+  padding: 80px 0;
 }
 
 .app-detail-landing .appnav {
@@ -416,6 +422,7 @@ smaller subset above will be used. */
 
 .app-detail-landing .slide {
   color: #027ab0;
+  column-count: 2;
   display: grid;
   font-size: 18px;
   grid-template-columns: repeat(6, 1fr);
@@ -453,6 +460,7 @@ smaller subset above will be used. */
 }
 
 .app-detail-landing .features {
+  column-count: 3;
   display: grid;
   grid-column: 2;
   grid-gap: 20px;
@@ -508,14 +516,18 @@ smaller subset above will be used. */
 }
 
 .app-detail-landing .download .other-apps {
-  display: grid;
-  font-size: 14px;
-  grid-template-columns: repeat(6, 1fr);
-  grid-gap: 20px;
   grid-column: span 6;
 }
 
 .app-detail-landing .download .other-apps p {
+  font-size: 14px;
+}
+
+.app-detail-landing .other-apps .app-links {
+  column-count: 6;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 20px;
   grid-column: span 6;
 }
 
@@ -556,6 +568,10 @@ smaller subset above will be used. */
 
   .app-detail-landing .download .illustration {
     grid-column: 2 / span 4;
+  }
+
+  .app-detail-landing .other-apps .app-links {
+    column-count: 3;
   }
 
   .app-detail-landing .download .other-app {
@@ -688,6 +704,10 @@ video {
 }
 
 /* Footer */
+
+.footer {
+  padding-top: 80px;
+}
 
 .logo-footer {
   width: 133px;
