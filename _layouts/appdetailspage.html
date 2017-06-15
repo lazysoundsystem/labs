@@ -3,13 +3,18 @@
   {% include head.html %}
   <body class="rwlabs">
     {% include nav.html %}
-    <div id="{{ page.name }}" class="app-detail-landing">
+    <div id="{{ page.name }}" class="app-detail-landing {{ page.name }}">
       <div class="hero">
         <div class="wrapper">
           <ul class="appnav">
-            <li><img class="this-app" alt="{{ page.name }} app" src="{{ site.baseurl }}/img/apps/rw-apps-{{ page.name }}.png"/></li>
+            <li><img class="this-app" alt="{{ page.name }} app" src="{{ site.baseurl }}/img/apps/rw-apps-{{ page.name }}.svg"/></li>
+            {% if page.language == "sp" %}
+            <li><a href="#features" class="scroll-link">Funcionalidades</a></li>
+            <li><a href="#download" class="scroll-link">Descarga</a></li>
+            {% else %}
             <li><a href="#features" class="scroll-link">Features</a></li>
             <li><a href="#download" class="scroll-link">Download</a></li>
+            {% endif %}
           </ul>
           <h1>{{ page.headline }}</h1>
         </div>
@@ -50,11 +55,11 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
-      <div id="features" class="features-wrapper">
+      <div id="features" class="features-wrapper {{ page.name }}">
         <div class="features">
           {% for feature in page.features %}
           <div class="feature">
-            <img src="{{ site.baseurl }}/img/apps/{{ feature.image }}" alt="feature-illustration"/>
+            {% include {{ feature.image }} %}
             <p>{{ feature.text }}</p>
           </div>
           {% endfor %}
@@ -77,15 +82,22 @@
           {% endif %}
         </div><!-- /rw-app-stores -->
         <div class="illustration">
-          <img src="{{ site.baseurl }}/img/apps/{{ download.image }}" alt="download illustration"/>
+          {% include app-download.svg %}
+          <div class="logo">
+            <img src="{{ site.baseurl }}/img/apps/rw-apps-{{ page.name }}.svg"/>
+          </div>
         </div>
         {% endfor %}
         <div class="other-apps">
+          {% if page.language == "sp" %}
+          <p>Tambien puede interesarle:</p>
+          {% else %}
           <p>You might also be interested in:</p>
+          {% endif %}
           <div class="app-links">
             {% for appname in page.otherapps %}
             <a class="other-app" href="../apps/index.html#{{ appname }}">
-              <img alt="Link to {{ appname }} app" src="{{ site.baseurl }}/img/apps/rw-apps-{{ appname }}.png"/>
+              <img alt="Link to {{ appname }} app" src="{{ site.baseurl }}/img/apps/rw-apps-{{ appname }}.svg"/>
             </a>
             {% endfor %}
           </div>

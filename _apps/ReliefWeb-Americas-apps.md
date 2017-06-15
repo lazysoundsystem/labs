@@ -1,8 +1,9 @@
 ---
 layout: appdetailspage
-name: crises
+name: americas
 phase: Beta
-permalink: /apps/crises.html
+language: sp
+permalink: /apps/americas.html
 headline: Crisis information at your fingertips
 banners:
  - Stay current with key figures such as the number of affected population and funding status.
@@ -25,26 +26,26 @@ slides:
    text: Monitor historical trends across all countries, compare with other indicators and contact the experts on the ground.
 features:
  - image: key-figures.svg
-   text: Top numbers updated in real time
+   text: Cifras clave actualizadas en tiempo real
  - image: sitreps.svg
-   text: Latest sitreps, maps, news and other relevant reports
+   text: Ultimos sitreps, mapas, noticias y otros informes relevantes
  - image: acaps.svg
-   text: Overview and latest developments
+   text: Resumen y últimos desarrollos
  - image: HDX.svg
-   text: Links to datasets
+   text: Links a conjuntos de datos
  - image: FTS.svg
-   text: Financial status and detailed breakdown by cluster and donors
+   text: Estatus financiero y desglose detallado por sector y donantes
  - image: HID.svg
-   text: Contacts in country
+   text: Contactos en el país
  - image: INFORM.svg
-   text: Inform index
+   text: Indice INFORM
  - image: Jobs-Trainings.svg
-   text: Open jobs & available training
+   text: Empleos y formación disponible
 download:
- - title: Stay informed.<br>Download the latest RW Crises App
-   text: Keep up to the latest information and resources on the World’s most pressing humanitarian crises.
-   image: Crisesapp-Illustration-16.png
+ - title: Mantengase informado.<br>Descargue la nueva RW Americas app.
+   text: Mantengarse al dia de la última informacion y recursos en las crisis humanitarias mas urgentes de America Latina y el Caribe.
 otherapps:
+ - crises
  - headlines
  - jobs
  - videos
