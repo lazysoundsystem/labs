@@ -389,12 +389,19 @@ smaller subset above will be used. */
 }
 
 .app-detail-landing .hero {
-  background-image: linear-gradient(80deg, rgba(05,115,187,0.6) 10%, rgba(13,113,186,1) 95%), url(../img/apps/Crises-background-top.png);
   background-position-x: center;
   background-size: cover;
   display: grid;
   grid-column: span 8;
   grid-template-columns: repeat(8, 1fr);
+}
+
+.app-detail-landing.crises .hero {
+  background-image: linear-gradient(80deg, rgba(05,115,187,0.6) 10%, rgba(13,113,186,1) 95%), url(../img/apps/crises-hero-screenshot.png), url(../img/apps/background-pic-header-21.png);
+}
+
+.app-detail-landing.americas .hero {
+  background-image: linear-gradient(80deg, rgba(185,82,142,0.6) 10%, rgba(158,63,65,0.8) 95%), url(../img/apps/background-pic-header-21.png);
 }
 
 .app-detail-landing .hero,
@@ -491,12 +498,19 @@ smaller subset above will be used. */
 }
 
 .app-detail-landing .features-wrapper {
-  background-image: linear-gradient(200deg, rgba(05,115,187,0.6) 20%, rgba(05,115,187,0.9) 80%), url(../img/apps/Crises-background-features.png);
   background-size: cover;
   grid-column: span 8;
   display: grid;
   grid-template-columns: 1fr 6fr 1fr;
   padding: 80px 0;
+}
+
+.app-detail-landing.crises .features-wrapper {
+  background-image: linear-gradient(200deg, rgba(05,115,187,0.6) 20%, rgba(05,115,187,0.9) 80%), url(../img/apps/Crises-background-features.png);
+}
+
+.app-detail-landing.americas .features-wrapper {
+  background-image: linear-gradient(200deg, rgba(213,97,103,0.6) 20%, rgba(204,102,105,0.8) 80%), url(../img/apps/Crises-background-features.png);
 }
 
 .app-detail-landing .features {
@@ -514,12 +528,15 @@ smaller subset above will be used. */
   font-size: 16px;
   grid-column: span 2;
   text-align: center;
+  width: 80%;
 }
 
-.app-detail-landing .feature img {
-  display: block;
-  margin: auto;
-  width: 80%;
+.app-detail-landing.crises .app-background {
+  fill: #0393c1 !important;
+}
+
+.app-detail-landing.americas .app-background {
+  fill: #cc6669 !important;
 }
 
 .app-detail-landing .download {
@@ -538,6 +555,12 @@ smaller subset above will be used. */
   grid-column: span 6;
 }
 
+.app-detail-landing .download .logo {
+  width: 9%;
+  position: relative;
+  top: -37%;
+  left: 49%;
+}
 .app-detail-landing .download .rw-app-stores {
   font-size: 18px;
   grid-column: span 4;
