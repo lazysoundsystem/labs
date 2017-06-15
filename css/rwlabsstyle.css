@@ -292,6 +292,10 @@ smaller subset above will be used. */
 }
 
 /* RW-Apps */
+.rw-apps-americas {
+  background-color: #cc6669;
+}
+
 .rw-apps-videos {
   background-color: #d2bfef;
 }
