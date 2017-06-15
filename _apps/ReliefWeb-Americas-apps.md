@@ -10,19 +10,19 @@ banners:
  - View and download the latest maps, infographics and situation reports.
 slides:
  - title: Comprehensive and latest information on humanitarian crises.
-   image: Crises-feature-country-screen.png
+   image: Americas-feature-country-screen.png
    text: Up-to-date key figures, funding status, reports and infographics. Also a gateway to datasets, in-country contacts, analyses and disaster history
  - title: Real time updates
-   image: Crises-feature-fts.png
+   image: Americas-feature-fts.png
    text: People in need, displacement, funding gaps, humanitarian responders on the ground, and more - the Crises app is updated around the clock by the ReliefWeb editorial team with timely and relevant information from trusted sources.
  - title: Browse and share
-   image: Crises-feature-browse-share.png
+   image: Americas-feature-browse-share.png
    text: Easily browse and switch between countries. Interested in only certain types of reports? Use the tabs to swipe through the reports you want to read. Share important updates via email or social media.
  - title: Offline access
-   image: Crises-feature-offline-access.png
+   image: Americas-feature-offline-access.png
    text: Travelling to a remote location in the the field? Save data for offline use in areas with poor internet connectivity.
  - title: Analysis
-   image: Crises-feature-analysis.png
+   image: Americas-feature-analysis.png
    text: Monitor historical trends across all countries, compare with other indicators and contact the experts on the ground.
 features:
  - image: key-figures.svg
