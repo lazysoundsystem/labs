@@ -10,11 +10,11 @@
    enable-background="new 0 0 201.50000000000000000 201.50000000000000000"
    viewBox="0 0 201.5 201.5"
    version="1.1"
-   id="svg2479"
+   id="svg6759"
    sodipodi:docname="sitreps.svg"
    inkscape:version="0.92.1 r15371">
   <metadata
-     id="metadata2485">
+     id="metadata6765">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,165 +25,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs2483">
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter5839">
-      <feFlood
-         flood-opacity="0.6"
-         flood-color="rgb(153,153,153)"
-         result="flood"
-         id="feFlood5829" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite5831" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="0.9"
-         result="blur"
-         id="feGaussianBlur5833" />
-      <feOffset
-         dx="2"
-         dy="2"
-         result="offset"
-         id="feOffset5835" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite5837" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter5851">
-      <feFlood
-         flood-opacity="0.6"
-         flood-color="rgb(153,153,153)"
-         result="flood"
-         id="feFlood5841" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite5843" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="0.9"
-         result="blur"
-         id="feGaussianBlur5845" />
-      <feOffset
-         dx="2"
-         dy="2"
-         result="offset"
-         id="feOffset5847" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite5849" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter5863">
-      <feFlood
-         flood-opacity="0.6"
-         flood-color="rgb(153,153,153)"
-         result="flood"
-         id="feFlood5853" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite5855" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="0.9"
-         result="blur"
-         id="feGaussianBlur5857" />
-      <feOffset
-         dx="2"
-         dy="2"
-         result="offset"
-         id="feOffset5859" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite5861" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       inkscape:label="Drop Shadow"
-       id="filter5875">
-      <feFlood
-         flood-opacity="0.6"
-         flood-color="rgb(153,153,153)"
-         result="flood"
-         id="feFlood5865" />
-      <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
-         result="composite1"
-         id="feComposite5867" />
-      <feGaussianBlur
-         in="composite1"
-         stdDeviation="0.9"
-         result="blur"
-         id="feGaussianBlur5869" />
-      <feOffset
-         dx="2"
-         dy="2"
-         result="offset"
-         id="feOffset5871" />
-      <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
-         result="composite2"
-         id="feComposite5873" />
-    </filter>
-    <linearGradient
-       id="k"
-       gradientTransform="matrix(1,0,0,-1,1.102479,-2677.6198)"
-       gradientUnits="userSpaceOnUse"
-       x1="96.071602"
-       x2="141.8721"
-       y1="-2749.8801"
-       y2="-2749.8801">
-      <stop
-         offset="0"
-         stop-color="#f65c51"
-         id="stop2297" />
-      <stop
-         offset=".1464"
-         stop-color="#d9615e"
-         id="stop2299" />
-      <stop
-         offset=".4642"
-         stop-color="#906f7f"
-         id="stop2301" />
-      <stop
-         offset=".9262"
-         stop-color="#1c84b2"
-         id="stop2303" />
-      <stop
-         offset="1"
-         stop-color="#0988bb"
-         id="stop2305" />
-    </linearGradient>
-  </defs>
+     id="defs6763" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -193,148 +35,299 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1303"
-     inkscape:window-height="744"
-     id="namedview2481"
+     inkscape:window-width="789"
+     inkscape:window-height="480"
+     id="namedview6761"
      showgrid="false"
      inkscape:zoom="1.1712159"
-     inkscape:cx="148.56356"
+     inkscape:cx="100.75"
      inkscape:cy="100.75"
      inkscape:window-x="57"
      inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2479" />
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6759" />
+  <filter
+     id="a"
+     color-interpolation-filters="sRGB">
+    <feFlood
+       flood-color="#999"
+       flood-opacity=".6"
+       result="flood"
+       id="feFlood6604" />
+    <feComposite
+       in="flood"
+       in2="SourceGraphic"
+       operator="in"
+       result="composite1"
+       id="feComposite6606" />
+    <feGaussianBlur
+       in="composite1"
+       result="blur"
+       stdDeviation=".9"
+       id="feGaussianBlur6608" />
+    <feOffset
+       dx="2"
+       dy="2"
+       result="offset"
+       id="feOffset6610" />
+    <feComposite
+       in="SourceGraphic"
+       in2="offset"
+       operator="over"
+       result="composite2"
+       id="feComposite6612" />
+  </filter>
+  <filter
+     id="b"
+     color-interpolation-filters="sRGB">
+    <feFlood
+       flood-color="#999"
+       flood-opacity=".6"
+       result="flood"
+       id="feFlood6615" />
+    <feComposite
+       in="flood"
+       in2="SourceGraphic"
+       operator="in"
+       result="composite1"
+       id="feComposite6617" />
+    <feGaussianBlur
+       in="composite1"
+       result="blur"
+       stdDeviation=".9"
+       id="feGaussianBlur6619" />
+    <feOffset
+       dx="2"
+       dy="2"
+       result="offset"
+       id="feOffset6621" />
+    <feComposite
+       in="SourceGraphic"
+       in2="offset"
+       operator="over"
+       result="composite2"
+       id="feComposite6623" />
+  </filter>
+  <filter
+     id="c"
+     color-interpolation-filters="sRGB">
+    <feFlood
+       flood-color="#999"
+       flood-opacity=".6"
+       result="flood"
+       id="feFlood6626" />
+    <feComposite
+       in="flood"
+       in2="SourceGraphic"
+       operator="in"
+       result="composite1"
+       id="feComposite6628" />
+    <feGaussianBlur
+       in="composite1"
+       result="blur"
+       stdDeviation=".9"
+       id="feGaussianBlur6630" />
+    <feOffset
+       dx="2"
+       dy="2"
+       result="offset"
+       id="feOffset6632" />
+    <feComposite
+       in="SourceGraphic"
+       in2="offset"
+       operator="over"
+       result="composite2"
+       id="feComposite6634" />
+  </filter>
+  <filter
+     id="d"
+     color-interpolation-filters="sRGB">
+    <feFlood
+       flood-color="#999"
+       flood-opacity=".6"
+       result="flood"
+       id="feFlood6637" />
+    <feComposite
+       in="flood"
+       in2="SourceGraphic"
+       operator="in"
+       result="composite1"
+       id="feComposite6639" />
+    <feGaussianBlur
+       in="composite1"
+       result="blur"
+       stdDeviation=".9"
+       id="feGaussianBlur6641" />
+    <feOffset
+       dx="2"
+       dy="2"
+       result="offset"
+       id="feOffset6643" />
+    <feComposite
+       in="SourceGraphic"
+       in2="offset"
+       operator="over"
+       result="composite2"
+       id="feComposite6645" />
+  </filter>
+  <linearGradient
+     id="e"
+     gradientTransform="matrix(1 0 0 -1 1.102479 -2677.6198)"
+     gradientUnits="userSpaceOnUse"
+     x1="96.071602"
+     x2="141.8721"
+     y1="-2749.8801"
+     y2="-2749.8801">
+    <stop
+       offset="0"
+       stop-color="#f65c51"
+       id="stop6648" />
+    <stop
+       offset=".1464"
+       stop-color="#d9615e"
+       id="stop6650" />
+    <stop
+       offset=".4642"
+       stop-color="#906f7f"
+       id="stop6652" />
+    <stop
+       offset=".9262"
+       stop-color="#1c84b2"
+       id="stop6654" />
+    <stop
+       offset="1"
+       stop-color="#0988bb"
+       id="stop6656" />
+  </linearGradient>
   <circle
      cx="100.7"
      cy="100.7"
      fill="#f2f2f2"
      opacity=".5"
      r="73.3"
-     id="circle2373" />
+     id="circle6659" />
   <path
      d="m39.6 153.5-2.6 2.2 1.5 7.2 5.2 3.4h37.2l6.2-3 2-7.5-1.5-2.3z"
      fill="#fff"
-     id="path2375" />
+     id="path6661" />
   <path
      d="m37 76.2 3.7-7.7 26.9-.5 16.6.8 4.2 4.2-.1 5-49.2-.7z"
      fill="#fff"
-     id="path2377" />
+     id="path6663" />
   <path
      d="m 37,78.1 h 52.1 v 75.4 H 37 Z"
-     id="path2379"
+     id="path6665"
      class="app-background"
      inkscape:connector-curvature="0" />
   <g
      fill="#fff"
-     id="g2395">
+     id="g6681">
     <path
        d="m58.2 150.9h-14.4c-1.7 0-3.1-1.4-3.1-3.1v-21.2c0-1.7 1.4-3.1 3.1-3.1h14.3c1.7 0 3.1 1.4 3.1 3.1v21.2c.1 1.7-1.3 3.1-3 3.1z"
-       id="path2381" />
+       id="path6667" />
     <path
        d="m80.3 150.9h-14.3c-1.7 0-3.1-1.4-3.1-3.1v-21.2c0-1.7 1.4-3.1 3.1-3.1h14.3c1.7 0 3.1 1.4 3.1 3.1v21.2c0 1.7-1.4 3.1-3.1 3.1z"
-       id="path2383" />
+       id="path6669" />
     <path
        d="m88.3 123.4h-.4c-1.7 0-3.1 1.4-3.1 3.1v21.2c0 1.7 1.4 3.1 3.1 3.1h.4z"
-       id="path2385" />
+       id="path6671" />
     <path
        d="m41.6 82.9h23.2v2.1h-23.2z"
-       id="path2387" />
+       id="path6673" />
     <path
        d="m41.6 93.5h23.2v.8h-23.2z"
-       id="path2389" />
+       id="path6675" />
     <path
        d="m41.6 97.9h28.7v.8h-28.7z"
-       id="path2391" />
+       id="path6677" />
     <path
        d="m41.6 107h23.2v.8h-23.2z"
-       id="path2393" />
+       id="path6679" />
   </g>
-  <path
-     d="m43.7 135.1h15.4v.8h-15.4z"
+  <g
      fill="#c1c1c1"
-     id="path2397" />
-  <path
-     d="m43.7 138.9h15.4v.8h-15.4z"
-     fill="#c1c1c1"
-     id="path2399" />
-  <path
-     d="m43.7 142.8h11v .8h-11z"
-     fill="#c1c1c1"
-     id="path2401" />
-  <path
-     d="m65.5 135.1h15.4v.8h-15.4z"
-     fill="#c1c1c1"
-     id="path2403" />
-  <path
-     d="m65.5 138.9h15.4v.8h-15.4z"
-     fill="#c1c1c1"
-     id="path2405" />
-  <path
-     d="m65.5 142.8h11v .8h-11z"
-     fill="#c1c1c1"
-     id="path2407" />
+     id="g6695">
+    <path
+       d="m43.7 135.1h15.4v.8h-15.4z"
+       id="path6683" />
+    <path
+       d="m43.7 138.9h15.4v.8h-15.4z"
+       id="path6685" />
+    <path
+       d="m43.7 142.8h11v .8h-11z"
+       id="path6687" />
+    <path
+       d="m65.5 135.1h15.4v.8h-15.4z"
+       id="path6689" />
+    <path
+       d="m65.5 138.9h15.4v.8h-15.4z"
+       id="path6691" />
+    <path
+       d="m65.5 142.8h11v .8h-11z"
+       id="path6693" />
+  </g>
   <path
      d="m41.6 111.5h28.7v.8h-28.7z"
      fill="#fff"
-     id="path2409" />
+     id="path6697" />
   <path
      d="m38.5 90h49.8"
      fill="none"
      stroke="#fff"
      stroke-miterlimit="10"
      stroke-width=".2345"
-     id="path2411" />
+     id="path6699" />
   <path
      d="m38.5 102.6h49.8"
      fill="none"
      stroke="#fff"
      stroke-miterlimit="10"
      stroke-width=".2345"
-     id="path2413" />
+     id="path6701" />
   <path
      d="m38.5 116.1h49.8"
      fill="none"
      stroke="#fff"
      stroke-miterlimit="10"
      stroke-width=".2345"
-     id="path2415" />
+     id="path6703" />
   <path
      d="m43.7 127.5h4.4v4.4h-4.4z"
      fill="#c1c1c1"
-     id="path2417" />
+     id="path6705" />
   <path
      d="m65.5 127.5h4.4v4.4h-4.4z"
      fill="#c1c1c1"
-     id="path2419" />
+     id="path6707" />
   <path
      d="m76.1 105.6h8.3v8.3h-8.3z"
      fill="#e6e6e6"
-     id="path2421" />
+     id="path6709" />
   <path
      d="m76.1 92.2h8.3v8.3h-8.3z"
      fill="#e6e6e6"
-     id="path2423" />
+     id="path6711" />
   <path
      d="m80.9 166.3h-35.8c-4.5 0-8.1-3.7-8.1-8.1v-82c0-4.5 3.7-8.1 8.1-8.1h35.8c4.5 0 8.1 3.7 8.1 8.1v81.9c.1 4.5-3.6 8.2-8.1 8.2z"
      fill="none"
      stroke="#3e3e3f"
      stroke-miterlimit="10"
      stroke-width="2.16"
-     id="path2425" />
+     id="path6713" />
   <path
      d="m37 78.1h52.1"
      fill="none"
      stroke="#3e3e3f"
      stroke-miterlimit="10"
      stroke-width="2.16"
-     id="path2427" />
+     id="path6715" />
   <path
      d="m37 153.5h52.1"
      fill="none"
      stroke="#3e3e3f"
      stroke-miterlimit="10"
      stroke-width="2.16"
-     id="path2429" />
+     id="path6717" />
   <path
      d="m57.8 73.4h10.2"
      fill="none"
@@ -342,86 +335,85 @@
      stroke-linecap="round"
      stroke-miterlimit="10"
      stroke-width="2.16"
-     id="path2431" />
+     id="path6719" />
   <path
      d="m139.6 167.6h-27.9c-3.4 0-6.1-2.7-6.1-6.1v-41.3c0-3.4 2.7-6.1 6.1-6.1h27.9c3.4 0 6.1 2.7 6.1 6.1v41.3c0 3.4-2.7 6.1-6.1 6.1z"
      fill="#fff"
-     id="path2435"
-     style="filter:url(#filter5875)" />
+     filter="url(#d)"
+     id="path6721" />
   <path
      d="m110.8 136.9h29.9v1.5h-29.9z"
      fill="#c1c1c1"
-     id="path2437" />
+     id="path6723" />
   <path
      d="m110.8 144.4h29.9v1.5h-29.9z"
      fill="#c1c1c1"
-     id="path2439" />
+     id="path6725" />
   <path
      d="m110.8 152h21.3v1.5h-21.3z"
      fill="#c1c1c1"
-     id="path2441" />
+     id="path6727" />
   <path
      d="m110.8 122.1h8.5v8.5h-8.5z"
      fill="#8ed0e8"
-     id="path2443" />
+     id="path6729" />
   <path
      d="m153 154.2h-27.9c-3.4 0-6.1-2.7-6.1-6.1v-41.3c0-3.4 2.7-6.1 6.1-6.1h27.9c3.4 0 6.1 2.7 6.1 6.1v41.3c0 3.4-2.7 6.1-6.1 6.1z"
      fill="#fff"
-     id="path2447"
-     style="filter:url(#filter5863)" />
+     filter="url(#c)"
+     id="path6731" />
   <path
      d="m124.1 135.9h29.9v1.5h-29.9z"
      fill="#c1c1c1"
-     id="path2449" />
+     id="path6733" />
   <path
      d="m124.1 143.5h21.3v1.5h-21.3z"
      fill="#c1c1c1"
-     id="path2451" />
+     id="path6735" />
   <path
      d="m124.1 108.7h8.5v8.5h-8.5z"
      fill="#ff6861"
-     id="path2453" />
+     id="path6737" />
   <path
      d="m119.1 119.1h39.8v12.3h-39.8z"
      fill="#e6e6e6"
-     id="path2455" />
+     id="path6739" />
   <path
      d="m166.4 140.8h-27.9c-3.4 0-6.1-2.7-6.1-6.1v-41.2c0-3.4 2.7-6.1 6.1-6.1h27.9c3.4 0 6.1 2.7 6.1 6.1v41.3c0 3.3-2.8 6-6.1 6z"
      fill="#fff"
-     id="path2459"
-     style="filter:url(#filter5851)" />
+     filter="url(#b)"
+     id="path6741" />
   <path
      d="m137.5 110.2h29.9v1.5h-29.9z"
      fill="#c1c1c1"
-     id="path2461" />
+     id="path6743" />
   <path
      d="m137.5 117.6h29.9v1.5h-29.9z"
      fill="#c1c1c1"
-     id="path2463" />
+     id="path6745" />
   <path
      d="m137.5 125.2h21.3v1.5h-21.3z"
      fill="#c1c1c1"
-     id="path2465" />
+     id="path6747" />
   <path
      d="m137.5 95.4h8.5v8.5h-8.5z"
      fill="#0071bc"
-     id="path2467" />
+     id="path6749" />
   <path
      d="m119.3 25.8 0 0c-22.4 0-40.5 18.1-40.5 40.5v40.5h40.5c22.4 0 40.5-18.1 40.5-40.5v0c0-22.4-18.1-40.5-40.5-40.5z"
      fill="#fff"
-     id="path2471"
-     style="filter:url(#filter5839)" />
+     filter="url(#a)"
+     id="path6751" />
   <path
      d="m102.9 60.9c0-3.2-.4-3.9-.4-4.6 0-.8 2.8-1 3.6-1 1 0 1.1 1.3 1.3 2.1.7-1.2 1.6-2.5 3.5-2.5 1.6 0 1.8 1.1 1.8 1.7s-.4 2.7-1 2.7c-.5 0-.9-.3-1.5-.3-1.3 0-2.2 1-2.6 1.6v10.4c0 .7-.6 1-1.9 1h-.9c-1.4 0-1.9-.4-1.9-1z"
      fill="#404040"
-     id="path2473" />
+     id="path6753" />
   <path
      d="m114.2 56.5c-.1-.2-.1-.4-.1-.5 0-.9 2.7-.8 2.7-.8.9 0 1.7.2 1.9.6l2.6 10 2.4-10c .1-.5.7-.7 1.8-.7h.8c.9 0 1.7.2 1.8.7l2.4 10 2.6-10c .1-.5.7-.7 1.8-.7h.1c1.4 0 2 .3 2 .8 0 .1 0 .3-.1.5l-3.8 15c-.1.5-.9.7-1.8.7h-1.6c-1 0-1.6-.2-1.8-.7l-2.4-9.1-2.2 9.1c-.1.5-.9.7-1.8.7h-1.5c-1.1 0-1.6-.2-1.8-.7z"
      fill="#404040"
-     id="path2475" />
+     id="path6755" />
   <path
-     inkscape:connector-curvature="0"
-     style="fill:url(#k)"
-     d="m 142.90248,67.397 c -0.3,-2.1 -2.9,-3.7 -4.5,-3.9 0.6,0.4 1.2,0.8 1.7,1.3 0.9,0.9 1.3,1.9 1,3.2 -0.3,1.2 -1,2.1 -1.9,3 -2,1.9 -4.5,3.2 -7.1,4.2 -4.6,1.9 -9.5,2.9 -14.4,3.4 -3.3,0.3 -6.5,0.3 -9.8,-0.3 -1.8,-0.3 -3.6,-0.8 -5.2,-1.9 -1.6,-1.1 -2.1,-2.5 -1.6,-4.1 l -0.7,-2.4 v 0 c -0.700001,0.5 -2.000001,1.6 -2.800001,3.2 -1,1.9 -0.6,3.7 1.1,5.1 1.500001,1.2 3.300001,1.9 5.300001,2.3 4,0.9 8.1,0.9 12.2,0.5 4.4,-0.4 8.7,-1.2 12.9,-2.6 3.5,-1.1 6.8,-2.5 9.8,-4.6 1.3,-0.9 2.4,-1.9 3.2,-3.2 0.7,-1.1 1,-2.1 0.8,-3.2 z"
-     id="path2352" />
+     d="m142.90248 67.397c-.3-2.1-2.9-3.7-4.5-3.9.6.4 1.2.8 1.7 1.3.9.9 1.3 1.9 1 3.2-.3 1.2-1 2.1-1.9 3-2 1.9-4.5 3.2-7.1 4.2-4.6 1.9-9.5 2.9-14.4 3.4-3.3.3-6.5.3-9.8-.3-1.8-.3-3.6-.8-5.2-1.9s-2.1-2.5-1.6-4.1l-.7-2.4v0c-.700001.5-2.000001 1.6-2.800001 3.2-1 1.9-.6 3.7 1.1 5.1 1.500001 1.2 3.300001 1.9 5.300001 2.3 4 .9 8.1.9 12.2.5 4.4-.4 8.7-1.2 12.9-2.6 3.5-1.1 6.8-2.5 9.8-4.6 1.3-.9 2.4-1.9 3.2-3.2.7-1.1 1-2.1.8-3.2z"
+     fill="url(#e)"
+     id="path6757" />
 </svg>
