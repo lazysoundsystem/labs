@@ -4,7 +4,7 @@ name: americas
 phase: Beta
 language: sp
 permalink: /apps/americas.html
-headline: Crisis information at your fingertips
+headline: Toda la información sobre situaciones humanitarias en América Latina y el Caribe
 banners:
  - Stay current with key figures such as the number of affected population and funding status.
  - View and download the latest maps, infographics and situation reports.
@@ -26,24 +26,22 @@ slides:
    text: Monitor historical trends across all countries, compare with other indicators and contact the experts on the ground.
 features:
  - image: key-figures.svg
-   text: Cifras clave actualizadas en tiempo real
+   text: Cifras actualizadas en tiempo real
  - image: sitreps.svg
    text: Ultimos sitreps, mapas, noticias y otros informes relevantes
- - image: acaps.svg
-   text: Resumen y últimos desarrollos
- - image: HDX.svg
-   text: Links a conjuntos de datos
- - image: FTS.svg
-   text: Estatus financiero y desglose detallado por sector y donantes
  - image: HID.svg
    text: Contactos en el país
+ - image: FTS.svg
+   text: Nivel de financiamiento y desglose detallado por "clusters" y donantes
+ - image: HDX.svg
+   text: Enlaces a datasets
  - image: INFORM.svg
    text: Indice INFORM
  - image: Jobs-Trainings.svg
-   text: Empleos y formación disponible
+   text: Ofertas de trabajo y formaciónes disponibles
 download:
- - title: Mantengase informado.<br>Descargue la nueva RW Americas app.
-   text: Mantengarse al dia de la última informacion y recursos en las crisis humanitarias mas urgentes de America Latina y el Caribe.
+ - title: Manténgase informado.<br>Descargue la nueva RW Americas app.
+   text: Manténgase al dia con la última informacion sobre América Latina y el Caribe.
 otherapps:
  - crises
  - headlines
