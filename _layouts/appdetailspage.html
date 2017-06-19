@@ -65,41 +65,43 @@
           {% endfor %}
         </div>
       </div>
-      <div id="download" class="download">
-        {% for download in page.download %}
-        <h2>{{ download.title }}</h2>
-        <div class="rw-app-stores">
-          <p>{{ download.text }}</p>
-          {% if page.play-url %}
-          <div class="rw-stores android">
-            <a href="{{ page.play-url }}"><img src="{{ site.baseurl }}/img/apps/androidstore_black.png" width="40%"/></a>
+      <div class="download-wrapper">
+        <div id="download" class="download">
+          {% for download in page.download %}
+          <h2>{{ download.title }}</h2>
+          <div class="rw-app-stores">
+            <p>{{ download.text }}</p>
+            {% if page.play-url %}
+            <div class="rw-stores android">
+              <a href="{{ page.play-url }}"><img src="{{ site.baseurl }}/img/apps/androidstore_black.png" width="40%"/></a>
+            </div>
+            {% endif %}
+            {% if page.itunes-url %}
+            <div class="rw-stores apple">
+              <a href="{{ page.itunes-url }}"><img src="{{ site.baseurl }}/img/apps/applestore.svg" width="40%"/></a>
+            </div>
+            {% endif %}
+          </div><!-- /rw-app-stores -->
+          <div class="illustration">
+            {% include app-download.svg %}
+            <div class="logo">
+              <img src="{{ site.baseurl }}/img/apps/rw-apps-{{ page.name }}.svg"/>
+            </div>
           </div>
-          {% endif %}
-          {% if page.itunes-url %}
-          <div class="rw-stores apple">
-            <a href="{{ page.itunes-url }}"><img src="{{ site.baseurl }}/img/apps/applestore.svg" width="40%"/></a>
-          </div>
-          {% endif %}
-        </div><!-- /rw-app-stores -->
-        <div class="illustration">
-          {% include app-download.svg %}
-          <div class="logo">
-            <img src="{{ site.baseurl }}/img/apps/rw-apps-{{ page.name }}.svg"/>
-          </div>
-        </div>
-        {% endfor %}
-        <div class="other-apps">
-          {% if page.language == "sp" %}
-          <p>Tambien puede interesarle:</p>
-          {% else %}
-          <p>You might also be interested in:</p>
-          {% endif %}
-          <div class="app-links">
-            {% for appname in page.otherapps %}
-            <a class="other-app" href="../apps/index.html#{{ appname }}">
-              <img alt="Link to {{ appname }} app" src="{{ site.baseurl }}/img/apps/rw-apps-{{ appname }}.svg"/>
-            </a>
-            {% endfor %}
+          {% endfor %}
+          <div class="other-apps">
+            {% if page.language == "sp" %}
+            <p>Tambien puede interesarle:</p>
+            {% else %}
+            <p>You might also be interested in:</p>
+            {% endif %}
+            <div class="app-links">
+              {% for appname in page.otherapps %}
+              <a class="other-app" href="../apps/index.html#{{ appname }}">
+                <img alt="Link to {{ appname }} app" src="{{ site.baseurl }}/img/apps/rw-apps-{{ appname }}.svg"/>
+              </a>
+              {% endfor %}
+            </div>
           </div>
         </div>
       </div>
