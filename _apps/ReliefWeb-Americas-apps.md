@@ -6,24 +6,27 @@ language: sp
 permalink: /apps/americas.html
 headline: Toda la información sobre situaciones humanitarias en América Latina y el Caribe
 banners:
- - Stay current with key figures such as the number of affected population and funding status.
- - View and download the latest maps, infographics and situation reports.
+ - Acceda a los últimos datos sobre situaciones humanitarias en América Latina y el Caribe.
+ - Descargue información sobre desastres, financiamiento humanitario, mapas e infografías, contactos en los países, entre otros.
 slides:
- - title: Comprehensive and latest information on humanitarian crises.
+ - title: Información completa y actualizada sobre la situación humanitaria en América Latina y el Caribe
    image: Americas-feature-country-screen.png
-   text: Up-to-date key figures, funding status, reports and infographics. Also a gateway to datasets, in-country contacts, analyses and disaster history
+   text: Además de las últimas cifras, nivel de financiamiento, informes, mapas e infografías, también podrá encontrar enlaces a datasets y contactos para cada país.
+ - title: Acceda a la información más reciente
+   image: Americas-feature-country-screen.png
+   text: Cifras sobre personas afectadas, contactos en el terreno, datasets, ofertas de empleo y formación, llamamientos, mapas e infografías y últimas noticias.
  - title: Real time updates
    image: Americas-feature-fts.png
-   text: People in need, displacement, funding gaps, humanitarian responders on the ground, and more - the Crises app is updated around the clock by the ReliefWeb editorial team with timely and relevant information from trusted sources.
- - title: Browse and share
-   image: Americas-feature-browse-share.png
-   text: Easily browse and switch between countries. Interested in only certain types of reports? Use the tabs to swipe through the reports you want to read. Share important updates via email or social media.
- - title: Offline access
-   image: Americas-feature-offline-access.png
-   text: Travelling to a remote location in the the field? Save data for offline use in areas with poor internet connectivity.
+   text: Monitoree los niveles de financiamiento de los últimos llamamientos detallados por “clusters” y donantes.
  - title: Analysis
    image: Americas-feature-analysis.png
-   text: Monitor historical trends across all countries, compare with other indicators and contact the experts on the ground.
+   text: Siga la evolución histórica de las cifras y compare con otros indicadores o países.
+ - title: Browse and share
+   image: Americas-feature-browse-share.png
+   text: Comparta la información por correo electrónico o redes sociales.
+ - title: Offline access
+   image: Americas-feature-offline-access.png
+   text: Si va a viajar a zonas sin conectividad, descargue la información y guárdela para poder seguir accediendo a los datos.
 features:
  - image: key-figures.svg
    text: Cifras actualizadas en tiempo real
