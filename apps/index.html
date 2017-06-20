@@ -44,13 +44,19 @@ title: ReliefWeb Apps
                 {{ app.content }}
               </div>
               <div class="rw-app-highlights">
+                {% if app.language != 'sp' %}
                 <p>Highlights:</p>
+                {% endif %}
                 {% for banner in app.banners %}
                 <p>{{ banner }}</p>
                 {% endfor %}
                 {% if app.permalink %}
                 <a href="{{ site.baseurl }}{{ app.permalink }}#{{ app.name }}">
+                  {% if app.language == 'sp' %}
+                  <p>Mas detalles</p>
+                  {% else %}
                   <p>See more details</p>
+                  {% endif %}
                 </a>
                 {% endif %}
               </div>
