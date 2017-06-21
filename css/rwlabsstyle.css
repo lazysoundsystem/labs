@@ -328,7 +328,7 @@ smaller subset above will be used. */
 
 .surtitle {
   font-size: 1.2em;
-  font-family: "Volkhov-Regular";
+  font-family: "Volkhov-Regular", "Volkhov-Regular-Extra";
 }
 
 .app-name {
@@ -380,7 +380,7 @@ smaller subset above will be used. */
 
 .app-detail-landing h1,
 .app-detail-landing h2 {
-  font-family: "Volkhov-Regular";
+  font-family: "Volkhov-Regular", "Volkhov-Regular-Extra";
 }
 
 .app-detail-landing h1 {
@@ -764,7 +764,7 @@ video {
 }
 
 .footer-subtitle {
-  font-family: "Volkhov-Regular";
+  font-family: "Volkhov-Regular", "Volkhov-Regular-Extra";
 }
 
 .rw-copyright {
