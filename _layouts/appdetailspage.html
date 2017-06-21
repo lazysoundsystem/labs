@@ -73,19 +73,19 @@
             <p>{{ download.text }}</p>
             {% if page.play-url %}
             <div class="rw-stores android">
-              <a href="{{ page.play-url }}"><img src="{{ site.baseurl }}/img/apps/androidstore_black.png" width="40%"/></a>
+              <a href="{{ page.play-url }}"><img src="{{ site.baseurl }}/img/apps/androidstore_black.png" alt="android store" width="40%"/></a>
             </div>
             {% endif %}
             {% if page.itunes-url %}
             <div class="rw-stores apple">
-              <a href="{{ page.itunes-url }}"><img src="{{ site.baseurl }}/img/apps/applestore.svg" width="40%"/></a>
+              <a href="{{ page.itunes-url }}"><img src="{{ site.baseurl }}/img/apps/applestore.svg" alt="apple store" width="40%"/></a>
             </div>
             {% endif %}
           </div><!-- /rw-app-stores -->
           <div class="illustration">
             {% include app-download.svg %}
             <div class="logo">
-              <img src="{{ site.baseurl }}/img/apps/rw-apps-{{ page.name }}.svg"/>
+              <img src="{{ site.baseurl }}/img/apps/rw-apps-{{ page.name }}.svg" alt="app-logo"/>
             </div>
           </div>
           {% endfor %}
