@@ -10,21 +10,21 @@ banners:
  - Descargue información sobre desastres, financiamiento humanitario, mapas e infografías, contactos en los países, entre otros.
 slides:
  - title: Información completa y actualizada sobre la situación humanitaria en América Latina y el Caribe
-   image: Americas-feature-country-screen.png
+   image: Americas-feature-splash-screen.png
    text: Además de las últimas cifras, nivel de financiamiento, informes, mapas e infografías, también podrá encontrar enlaces a datasets y contactos para cada país.
  - title: Acceda a la información más reciente
    image: Americas-feature-country-screen.png
    text: Cifras sobre personas afectadas, contactos en el terreno, datasets, ofertas de empleo y formación, llamamientos, mapas e infografías y últimas noticias.
- - title: Real time updates
+ - title: Cifras actualizadas en tiempo real
    image: Americas-feature-fts.png
    text: Monitoree los niveles de financiamiento de los últimos llamamientos detallados por “clusters” y donantes.
- - title: Analysis
+ - title: Análisis
    image: Americas-feature-analysis.png
    text: Siga la evolución histórica de las cifras y compare con otros indicadores o países.
- - title: Browse and share
+ - title: Busque y comparta
    image: Americas-feature-browse-share.png
    text: Comparta la información por correo electrónico o redes sociales.
- - title: Offline access
+ - title: Acceda sin conexión
    image: Americas-feature-offline-access.png
    text: Si va a viajar a zonas sin conectividad, descargue la información y guárdela para poder seguir accediendo a los datos.
 features:
@@ -54,7 +54,7 @@ otherapps:
 weight: 40
 
 
-itunes-url: https://itunes.apple.com/us/app/reliefweb-crises/id1123700391?ls=1&mt=8
-play-url: https://play.google.com/store/apps/details?id=org.reliefweb.crises
+itunes-url:
+play-url:
 ---
 
