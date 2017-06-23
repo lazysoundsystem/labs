@@ -4,7 +4,7 @@ name: americas
 phase: Beta
 language: sp
 permalink: /apps/americas.html
-headline: La última información sobre situaciones humanitarias en América Latina y el Caribe - en espaǹol
+headline: La última información sobre situaciones humanitarias en América Latina y el Caribe - en español
 banners:
  - Acceda a los últimos datos sobre situaciones humanitarias en América Latina y el Caribe.
  - Descargue información sobre desastres, financiamiento humanitario, mapas e infografías, contactos en los países, entre otros.
