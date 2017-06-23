@@ -41,10 +41,10 @@ features:
  - image: INFORM.svg
    text: Indice INFORM
  - image: Jobs-Trainings.svg
-   text: Ofertas de trabajo y formaciónes disponibles
+   text: Ofertas de trabajo y formaciones disponibles
 download:
- - title: Descargue la nueva RW Americas app.
-   text: Manténgase al dia con la última informacion sobre América Latina y el Caribe.
+ - title: Descargue la nueva aplicación "RW Americas"
+   text: Manténgase al dia con la última información sobre América Latina y el Caribe.
 otherapps:
  - crises
  - headlines
