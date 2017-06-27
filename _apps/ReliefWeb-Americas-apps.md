@@ -4,7 +4,7 @@ name: americas
 phase: Beta
 language: sp
 permalink: /apps/americas.html
-headline: La última información sobre situaciones humanitarias en América Latina y el Caribe - en español
+headline: Información actualizada sobre la situación humanitaria en América Latina y el Caribe
 banners:
  - Acceda a los últimos datos sobre situaciones humanitarias en América Latina y el Caribe.
  - Descargue información sobre desastres, financiamiento humanitario, mapas e infografías, contactos en los países, entre otros.
@@ -14,7 +14,7 @@ slides:
    text: Además de las últimas cifras, nivel de financiamiento, informes, mapas e infografías, también podrá encontrar enlaces a datasets y contactos para cada país.
  - title: Acceda a la información más reciente
    image: Americas-feature-country-screen.png
-   text: Encuentre las cifras sobre personas afectadas, datasets, contactos en el terreno, datasets, ofertas de empleo y formación, llamamientos, mapas e infografías y últimas noticias.
+   text: Encuentre las cifras sobre personas afectadas, datasets, contactos en el terreno, ofertas de empleo y formación, llamamientos, mapas e infografías y últimas noticias.
  - title: Cifras de financiamiento en tiempo real
    image: Americas-feature-fts.png
    text: Monitoree los niveles de financiamiento de los últimos llamamientos detallados por “clusters” y donantes.
@@ -23,7 +23,7 @@ slides:
    text: Siga la evolución histórica de las cifras disponibles y compare con otros indicadores o países.
  - title: Encuentre y comparta información fácilmente
    image: Americas-feature-browse-share.png
-   text: Busque rápidamente la información gracias a la interfaz fácil de usar y compártala por correo electrónico o redes sociales.
+   text: La aplicación está diseñada para facilitar la búsqueda rápida de información y la posibilidad de guardarla o compartirla a través del correo electrónico o redes sociales.
  - title: Acceda sin conexión
    image: Americas-feature-offline-access.png
    text: Si va a viajar a zonas sin conectividad, descargue la información y guárdela para poder seguir accediendo a los datos.
@@ -31,7 +31,7 @@ features:
  - image: key-figures.svg
    text: Cifras actualizadas en tiempo real
  - image: sitreps.svg
-   text: Ultimos sitreps, mapas, noticias y otros informes relevantes
+   text: Últimos sitreps, mapas, noticias y otros informes relevantes
  - image: HID.svg
    text: Contactos en el país
  - image: FTS.svg
@@ -39,12 +39,12 @@ features:
  - image: HDX.svg
    text: Enlaces a datasets
  - image: INFORM.svg
-   text: Indice INFORM
+   text: Índice INFORM
  - image: Jobs-Trainings.svg
    text: Ofertas de trabajo y formaciones disponibles
 download:
  - title: Descargue la nueva aplicación "RW Americas"
-   text: Manténgase al dia con la última información sobre América Latina y el Caribe.
+   text:
 otherapps:
  - crises
  - headlines
